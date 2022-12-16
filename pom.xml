@@ -9,7 +9,7 @@
 
 
 	<properties>
-		<spring.version>4.3.0.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<hibernate.version>4.2.21.Final</hibernate.version>
 	</properties>
 
